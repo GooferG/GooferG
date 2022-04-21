@@ -1,7 +1,5 @@
 ### Here is what I am working on 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on... #100Devs Agency Training
 - 🌱 I’m currently learning ... Vanilla JS, React.JS, Next.JS and tailwindCSS
 - 👯 I’m looking to collaborate ... on any projects with friendly individuals!
