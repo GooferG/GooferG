@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything with anyone! I love meeting new people that are as passionate as I am about programming!**
 
-- 👨‍💻 All of my projects are available at [https://astounding-dragon-4ae2de.netlify.app/](https://astounding-dragon-4ae2de.netlify.app/)
+- 👨‍💻 All of my projects are available at [HERE](https://luizmeneghim.com)
 
 - 📫 How to reach me **luiz.meneghim@hotmail.com**
 
