@@ -30,3 +30,29 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gooferg&show_icons=true&locale=en" alt="gooferg" /></p>
 
 <p><img align="center" src="https://www.codewars.com/users/GooferG/badges/large" alt="gooferg" </p>
+
+<h2 align="center">Highlighted Projects </h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">Coming Soon</h2>
+<div align="center" >  
+<a href='https://github.com/gooferg/'> 
+</a>
+  
+ https://user-images.githubusercontent.com/97814431/168460272-1a8301a8-6c28-48ef-84ac-cb8a8f080ca2.mp4
+  
+<br>
+<br>
+<p>
+  <a href="https://github.com/gooferg/" target="_blank">
+  
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="https://github.com/gooferg/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - PlaceHolder for content info.</p>
+</div>
