@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luiz Meneghim</h1>
+<h1 align="center">Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Luiz Meneghim</h1>
 <h3 align="center">A passionate Software Engineer originally from Brazil, living in the heat of Arizona.</h3>
 
 <p align="left"> <a href="https://twitter.com/goofer_g" target="blank"><img src="https://img.shields.io/twitter/follow/goofer_g?logo=twitter&style=for-the-badge" alt="goofer_g" /></a> </p>
