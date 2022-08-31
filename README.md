@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **anything with anyone! I love meeting new people that are as passionate as I am about programming!**
 
-- 👨‍💻 All of my projects are available at [HERE](https://luizmeneghim.com)
+- 👨‍💻 All of my projects are available at [HERE](http://luizmeneghim.com)
 
-- 📫 How to reach me **luiz.meneghim@hotmail.com**
+- 📫 How to reach me **luimeneghim@gmail.com**
 
 - ⚡ Fun fact **I still speak Portuguese every day and love trying to learn sleight of hand tricks**
 
@@ -41,8 +41,10 @@
 <a href='https://github.com/gooferg/'> 
 </a>
   
- https://user-images.githubusercontent.com/97814431/168460272-1a8301a8-6c28-48ef-84ac-cb8a8f080ca2.mp4
-  
+ 
+  https://user-images.githubusercontent.com/25205819/187572797-fe944893-0a16-4dc2-ac26-9cb75da2e362.mp4
+
+
 <br>
 <br>
 <p>
