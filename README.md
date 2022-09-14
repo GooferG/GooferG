@@ -59,21 +59,21 @@
 <p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using the MVC paradym and created our own API for requests. You are able to create a local auth account, login to your own profile and add your personal car collection.</p>
 </div>
   
-  <h3 align="center" color="white">Project 2</h2>
+  <h3 align="center" color="white">Personal Porfolio</h2>
 <div align="center" >  
 <a href='#'> 
 </a>
   
-// img
+  <img src="https://user-images.githubusercontent.com/25205819/190032218-fbb4cc22-7698-4ef2-8587-6d8d62e3ced4.png">
   
 <br>
 <br>
 <p>
-  <a href="#" target="_blank">
+  <a href="https://github.com/GooferG/portfolio-wip" target="_blank">
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="#" target="_blank">
+<a href="https://luizmeneghim.com" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
