@@ -37,41 +37,13 @@
 <div align="center">
 <table>
 <tr>
-<td width="25%">
-<h3 align="center" color="white">Coming Soon</h2>
+<td width="50%">
+<h3 align="center" color="white">Car Colletion CRUD App</h2>
 <div align="center" >  
-<a href='https://github.com/gooferg/'> 
+<a href='#'> 
 </a>
   
- 
-  https://user-images.githubusercontent.com/25205819/187572797-fe944893-0a16-4dc2-ac26-9cb75da2e362.mp4
-
-
-<br>
-<br>
-<p>
-  <a href="https://github.com/gooferg/" target="_blank">
-  
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-    
-<a href="https://github.com/gooferg/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-</a>
-</p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - PlaceHolder for content info.</p>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="25%">
-<h3 align="center" color="white">Car Collection</h2>
-<div align="center" >  
-<a href='https://github.com/gooferg/'> 
-</a>
-  
- <img src="https://user-images.githubusercontent.com/25205819/190031106-4ca0e918-447f-4300-85db-43695f7754d1.png">
- 
+<img src="https://user-images.githubusercontent.com/25205819/190031106-4ca0e918-447f-4300-85db-43695f7754d1.png">
   
 <br>
 <br>
@@ -80,9 +52,71 @@
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="https://github.com/gooferg/" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5 (CRUD)</strong> - Simple app to track your own car collection. User is able to add cars, login with their own local auth and also review other accounts collections. In this project we have used Node.JS and Express for the backend, and on the front-end we have used EJS. Following the MVC for this full-stack project</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using the MVC paradym and created our own API for requests. You are able to create a local auth account, login to your own profile and add your personal car collection.</p>
 </div>
+  
+  <h3 align="center" color="white">Project 2</h2>
+<div align="center" >  
+<a href='#'> 
+</a>
+  
+// img
+  
+<br>
+<br>
+<p>
+  <a href="#" target="_blank">
+  
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Placeholder app info.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center" color="white">Capital Hack</h2>
+<div align="center" >  
+<a href='#'>
+</a>
+ 
+// img
+  
+<br>
+<br>
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> - Placeholder info.</p>
+</div>
+  <h3 align="center" color="white">Above the Horizon</h2>
+<div align="center" >  
+<a href='#'>
+</a>
+ 
+//img
+
+<br>
+<br>
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> - PlaceHolder info for app.</p>
+</div>
+</table>
