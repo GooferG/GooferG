@@ -37,7 +37,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="25%">
 <h3 align="center" color="white">Coming Soon</h2>
 <div align="center" >  
 <a href='https://github.com/gooferg/'> 
@@ -64,13 +64,13 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="25%">
 <h3 align="center" color="white">Car Collection</h2>
 <div align="center" >  
 <a href='https://github.com/gooferg/'> 
 </a>
   
- <img width="50px" src="https://user-images.githubusercontent.com/25205819/190031106-4ca0e918-447f-4300-85db-43695f7754d1.png">
+ <img src="https://user-images.githubusercontent.com/25205819/190031106-4ca0e918-447f-4300-85db-43695f7754d1.png">
  
   
 <br>
