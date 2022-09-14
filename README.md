@@ -73,11 +73,11 @@
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="https://luizmeneghim.com" target="_blank">
+<a href="luizmeneghim.com" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Placeholder app info.</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Simple vanilla HTML and CSS website porfolio with a little bit of JS for the typewritter setup.</p>
 </div>
 </td>
 <td width="50%">
