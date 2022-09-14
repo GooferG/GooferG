@@ -81,7 +81,7 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Capital Hack</h2>
+<h3 align="center" color="white">Project 3</h2>
 <div align="center" >  
 <a href='#'>
 </a>
@@ -100,7 +100,7 @@
 </p>
 <p><strong>JavaScript, HTML5, CSS3</strong> - Placeholder info.</p>
 </div>
-  <h3 align="center" color="white">Above the Horizon</h2>
+  <h3 align="center" color="white">Project 4</h2>
 <div align="center" >  
 <a href='#'>
 </a>
