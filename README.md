@@ -73,7 +73,7 @@
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="luizmeneghim.com" target="_blank">
+<a href="http://luizmeneghim.com" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
