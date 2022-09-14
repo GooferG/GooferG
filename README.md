@@ -60,3 +60,30 @@
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - PlaceHolder for content info.</p>
 </div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">Coming Soon</h2>
+<div align="center" >  
+<a href='https://github.com/gooferg/'> 
+</a>
+  
+ 
+  ![68747470733a2f2f692e696d6775722e636f6d2f31494f6e564c502e706e67](https://user-images.githubusercontent.com/25205819/190031106-4ca0e918-447f-4300-85db-43695f7754d1.png)
+
+
+<br>
+<br>
+<p>
+  <a href="https://github.com/GooferG/Car-Collection-GA" target="_blank">
+  
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="https://github.com/gooferg/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to track your own car collection. User is able to add cars, login with their own local auth and also review other accounts collections</p>
+</div>
