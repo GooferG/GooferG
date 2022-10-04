@@ -102,7 +102,7 @@ https://user-images.githubusercontent.com/25205819/193950273-b9cccbf0-4442-4b9c-
 <p><strong>ReactJS, HTML5, Tailwind</strong> - Using ReactJS we have built a chrome extesion that allows for the fetching of job posting data and tracking of it under one simple dashboard.</p>
 </div>
 
-  <h3 align="center" color="white">Project 4</h2>
+<!-- <h3 align="center" color="white">Project 4</h2>
 <div align="center" >  
 <a href='#'>
 </a>
@@ -120,5 +120,5 @@ https://user-images.githubusercontent.com/25205819/193950273-b9cccbf0-4442-4b9c-
 </a>
 </p>
 <p><strong>JavaScript, HTML5, CSS3</strong> - PlaceHolder info for app.</p>
-</div>
+</div> -->
 </table>
