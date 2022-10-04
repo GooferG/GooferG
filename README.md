@@ -81,25 +81,27 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Project 3</h2>
+<h3 align="center" color="white">Job Application Tracking Extension</h2>
 <div align="center" >  
 <a href='#'>
 </a>
  
-// img
+
+https://user-images.githubusercontent.com/25205819/193950273-b9cccbf0-4442-4b9c-b508-bbc5b718181d.mp4
   
 <br>
 <br>
 <p>
-<a href="#" target="_blank">
+<a href="https://github.com/GooferG/job-tracking-extension" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
-<a href="#" target="_blank">
+<a href="https://github.com/GooferG/job-tracking-extension" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Placeholder info.</p>
+<p><strong>ReactJS, HTML5, Tailwind</strong> - Using ReactJS we have built a chrome extesion that allows for the fetching of job posting data and tracking of it under one simple dashboard.</p>
 </div>
+
   <h3 align="center" color="white">Project 4</h2>
 <div align="center" >  
 <a href='#'>
