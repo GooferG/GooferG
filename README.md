@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brazil living in the heat of the Arizona desert</h3>
 
 <p align="left"> <a href="https://twitter.com/goofer_g" target="blank"><img src="https://img.shields.io/twitter/follow/goofer_g?logo=twitter&style=for-the-badge" alt="goofer_g" /></a> </p>
 
