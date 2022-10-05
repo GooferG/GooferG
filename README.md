@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/goofer_g" target="blank"><img src="https://img.shields.io/twitter/follow/goofer_g?logo=twitter&style=for-the-badge" alt="goofer_g" /></a> </p>
 
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Luiz and I'm originally from Brazil, living in Arizona for the past few years
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> My name's Luiz and I'm originally from Brazil, living in Arizona for the past few years
 - 🔭 I’m a software engineer with a background in cybersecurity and fillmaking practices.
 
 - 🌱 I’m am passionate about full-stack web development, Electron applications and Web3
