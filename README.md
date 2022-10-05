@@ -102,13 +102,15 @@ https://user-images.githubusercontent.com/25205819/193950273-b9cccbf0-4442-4b9c-
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple vanilla HTML and CSS website porfolio with a little bit of JS for the typewritter setup.</p>
 </div>
-</td>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gooferg&show_icons=true&locale=en&layout=compact" alt="gooferg" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gooferg&show_icons=true&locale=en&layout=compact" alt="gooferg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gooferg&show_icons=true&locale=en" alt="gooferg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gooferg&" alt="gooferg" /></p>
+</td>
+  
+
 
 
 
