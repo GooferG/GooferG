@@ -1,22 +1,22 @@
-<h3 align="center">A passionate frontend developer from Brazil living in the heat of the Arizona desert</h3>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Luiz Meneghim</h1> 
 
 <p align="left"> <a href="https://twitter.com/goofer_g" target="blank"><img src="https://img.shields.io/twitter/follow/goofer_g?logo=twitter&style=for-the-badge" alt="goofer_g" /></a> </p>
 
-- 🔭 I’m currently working on [A job tracking extension to help me during the job hunt](https://github.com/GooferG/job-tracking-extension)
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Luiz and I'm originally from Brazil, living in Arizona for the past few years
+- 
+- 🔭 I’m a software engineer with a background in cybersecurity and fillmaking practices.
 
-- 🌱 I’m currently learning **the MERN stack.**
+- 🌱 I’m am passionate about full-stack web development, Electron applications and Web3
 
-- 👯 I’m looking to collaborate on **Any projects with new friends and fellow developers! Hit me up!**
-
-- 🤝 I’m looking for help with **ReactJS and advanced JS topics**
+- 👯 I’m looking to collaborate on Open-Source projects
 
 - 👨‍💻 All of my projects are available at [http://luizmeneghim.com](http://luizmeneghim.com)
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about my Software Engineering journey or any projects I have worked on!
 
 - 📫 How to reach me **luimeneghim@gmail.com**
 
-- 📄 Know about my experiences [https://lumen-portfolio.netlify.app/images/Luiz_Meneghim_-_Software_Engineer.pdf](https://lumen-portfolio.netlify.app/images/Luiz_Meneghim_-_Software_Engineer.pdf)
+- 📄 Know about my experiences [resume](https://lumen-portfolio.netlify.app/images/Luiz_Meneghim_-_Software_Engineer.pdf)
 
 - ⚡ Fun fact **I am originally from Brazil and the main reason I lost most of my Brazilian accent is because I talk WAY too much! 😅**
 
