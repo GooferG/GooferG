@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **luimeneghim@gmail.com**
 
-- 📄 Know about my experiences [resume](https://lumen-portfolio.netlify.app/images/Luiz_Meneghim_-_Software_Engineer.pdf)
+- 📄 Know about my experiences [here](https://lumen-portfolio.netlify.app/images/Luiz_Meneghim_-_Software_Engineer.pdf)
 
 - ⚡ Fun fact **I am originally from Brazil and the main reason I lost most of my Brazilian accent is because I talk WAY too much! 😅**
 
