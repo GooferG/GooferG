@@ -39,6 +39,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gooferg&" alt="gooferg" /></p>
 
+<p> <img src="https://www.codewars.com/users/GooferG/badges/large" /></p>
+
 <h2 align="center">Highlighted Projects </h2>
 <div align="center">
 <table>
