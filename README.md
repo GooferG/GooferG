@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on Open-Source projects
 
-- 👨‍💻 All of my projects are available at [http://luizmeneghim.com](http://luizmeneghim.com)
+- 👨‍💻 Streaming content here: https://goofer.tv/
 
 - 💬 Ask me about my Software Engineering journey or any projects I have worked on!
 
