@@ -6,7 +6,7 @@
 - 🔭 I'm a software engineer with a background in cybersecurity and filmmaking practices.
 - 🌱 I'm passionate about full-stack web development, Electron applications and Web3
 - 👯 I'm looking to collaborate on Open-Source projects
-- 👨‍💻 Portfolio Website: https://luizmenghim.com
+- 👨‍💻 Portfolio Website: https://luizmeneghim.com
 - 💬 Ask me about my Software Engineering journey or any projects I have worked on!
 - 📫 How to reach me: **luimeneghim@gmail.com**
 - 📄 Know about my experiences [here](https://lumen-portfolio.netlify.app/images/Luiz_Meneghim_-_Software_Engineer.pdf)
