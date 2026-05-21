@@ -1,127 +1,63 @@
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Luiz Meneghim</h1>
+# Hi there 👋, I'm Luiz Meneghim
 
-<p align="left"> <a href="https://twitter.com/goofer_g" target="blank"><img src="https://img.shields.io/twitter/follow/goofer_g?logo=twitter&style=for-the-badge" alt="goofer_g" /></a> </p>
+Brazilian living in Arizona. Frontend developer at **SomniCue**, freelancing through **Lume Studio**, and pivoting toward AI engineering on the side.
 
-- 👦 My name's Luiz and I'm originally from Brazil, living in Arizona for the past few years
-- 🔭 I'm a software engineer with a background in cybersecurity and filmmaking practices.
-- 🌱 I'm passionate about full-stack web development, Electron applications and Web3
-- 👯 I'm looking to collaborate on Open-Source projects
-- 👨‍💻 Portfolio Website: https://luizmeneghim.com
-- 💬 Ask me about my Software Engineering journey or any projects I have worked on!
-- 📫 How to reach me: **luimeneghim@gmail.com**
-- 📄 Know about my experiences [here](https://lumen-portfolio.netlify.app/images/Luiz_Meneghim_-_Software_Engineer.pdf)
-- ⚡ Fun fact: **I am originally from Brazil and the main reason I lost most of my Brazilian accent is because I talk WAY too much! 😅**
+- 🔭 **Right now:** building [SomniCue](https://somnicue.com) (the first consumer Targeted Memory Reactivation app) on Next.js + headless WordPress, plus freelance client builds through Lume Studio.
+- 🌱 **Currently learning:** agentic LLM systems and MCP server design, working through Ed Donner's LLM Engineering course alongside Anthropic's MCP course.
+- 🧪 **Tinkering with:** a local AI stack on an RTX 5080 (LM Studio, Hermes Agent in WSL2, SearXNG, MCP filesystem integration).
+- 🎮 **Off the clock:** I stream on Twitch as [GooferG](https://twitch.tv/gooferg), do sim racing on a Simagic Alpha rig, and own one (1) cat.
+- 💬 Ask me about my Software Engineering journey, the SomniCue stack, or anything sim racing.
+- 📫 Reach me at **luimeneghim@gmail.com**
+- ⚡ **Fun fact:** I'm originally from Brazil and the main reason I lost most of my accent is because I talk WAY too much! 😅
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<table><tr>
-<td><a href="https://twitter.com/goofer_g" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a></td>
-<td><a href="https://linkedin.com/in/lmeneghim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
-<td><a href="https://instagram.com/luimeneghim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
-<td><a href="https://medium.com/@luizmeneghim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a></td>
-<td><a href="https://discord.gg/Goofer#3208" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a></td>
-</tr></table>
+### Tech I reach for
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/-Headless%20WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/-Anthropic%20API-D97757?style=flat-square)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<table><tr>
-<td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-<td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a></td>
-<td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
-<td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
-<td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-<td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-<td><a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a></td>
-<td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-<td><a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/></a></td>
-<td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
-<td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a></td>
-<td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
-<td><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></td>
-<td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
-<td><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
-<td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
-<td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></td>
-</tr></table>
+### Featured projects
+
+#### 🛠️ [leadgenerator-ai](https://github.com/GooferG/leadgenerator-ai)
+Lead generation tool built with Next.js and deployed on Vercel. NextAuth Google OAuth and a Supabase backend.
+
+#### 🌐 [universally-us](https://github.com/GooferG/universally-us)
+Headless WordPress + Next.js build for [universallyus.com](https://universallyus.com). Full VPS deployment on Ubuntu 22.04 (PM2, Nginx, SSL), on-demand ISR revalidation via WordPress webhooks, hCaptcha protection on contact and register forms.
+
+#### 🎥 [gooferG](https://github.com/GooferG/gooferG)
+My Twitch streaming site and overlay setup. Includes the Chat On Screen overlay with rendered emotes and Twitch profile pictures, plus a Prize Wheel entry system built on Streamer.bot with C# sub-actions.
+
+#### 🌑 [Portfolio](https://github.com/GooferG/portfolio) → [luizmeneghim.com](https://luizmeneghim.com)
+Personal portfolio on Next.js 15 (App Router) and Tailwind v4. Dark glassmorphism aesthetic, real project case studies.
+
+> A few of my projects are private (SomniCue, Apply Gecko, client work). Happy to walk through them on a call.
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gooferg&show_icons=true&locale=en&layout=compact" alt="gooferg" /></p>
+### Find me elsewhere
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gooferg&show_icons=true&locale=en" alt="gooferg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gooferg&" alt="gooferg" /></p>
-
-<p><img src="https://www.codewars.com/users/GooferG/badges/large" /></p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-luizmeneghim.com-7C3AED?style=for-the-badge)](https://luizmeneghim.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lmeneghim)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/gooferg)
+[![X](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Goofer_G)
 
 ---
 
-<h2 align="center">Highlighted Projects</h2>
+### Stats
 
-<div align="center">
-<table>
-<tr>
-
-<td width="50%">
-<h3 align="center">Job Application Tracking Extension</h3>
-<div align="center">
-
-![ApplicationTrackerLoginPage](https://user-images.githubusercontent.com/25205819/193950802-0f61199f-c239-49d8-b44e-d6dbe57f349b.png)
-
-https://user-images.githubusercontent.com/25205819/193950273-b9cccbf0-4442-4b9c-b508-bbc5b718181d.mp4
-
-<br>
-<p>
-<a href="https://github.com/GooferG/job-tracking-extension" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://github.com/GooferG/job-tracking-extension" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GooferG&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GooferG&layout=compact&hide_border=true&theme=tokyonight" height="160" />
 </p>
-<p><strong>ReactJS, HTML5, Tailwind</strong> - Using ReactJS we built a Chrome extension that allows for fetching job posting data and tracking it under one simple dashboard.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Car Collection CRUD App</h3>
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/25205819/190031106-4ca0e918-447f-4300-85db-43695f7754d1.png">
-
-<br>
-<p>
-<a href="https://github.com/GooferG/Car-Collection-GA" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-</a>
-</p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using the MVC paradigm with a custom-built API. You can create a local auth account, log in to your own profile, and add your personal car collection.</p>
-</div>
-
-<h3 align="center">Personal Portfolio</h3>
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/25205819/190032218-fbb4cc22-7698-4ef2-8587-6d8d62e3ced4.png">
-
-<br>
-<p>
-<a href="https://github.com/GooferG/portfolio-wip" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-</a>
-<a href="http://luizmeneghim.com" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-</a>
-</p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Simple vanilla HTML and CSS portfolio with a bit of JS for the typewriter effect.</p>
-</div>
-</td>
-
-</tr>
-</table>
-</div>
