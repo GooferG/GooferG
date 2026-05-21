@@ -30,13 +30,13 @@ Brazilian living in Arizona. Frontend developer at **SomniCue**, freelancing thr
 
 ### Featured projects
 
-#### 🛠️ [leadgenerator-ai](https://github.com/GooferG/leadgenerator-ai)
+#### 🛠️ [leadgenerator-ai](https://github.com/GooferG/leadgenerator-ai) -> [hookleadgen.ai](https://leadgenerator-ai.vercel.app/)
 Lead generation tool built with Next.js and deployed on Vercel. NextAuth Google OAuth and a Supabase backend.
 
 #### 🌐 [universally-us](https://github.com/GooferG/universally-us)
 Headless WordPress + Next.js build for [universallyus.com](https://universallyus.com). Full VPS deployment on Ubuntu 22.04 (PM2, Nginx, SSL), on-demand ISR revalidation via WordPress webhooks, hCaptcha protection on contact and register forms.
 
-#### 🎥 [gooferG](https://github.com/GooferG/gooferG)
+#### 🎥 [gooferG](https://goofer.tv)
 My Twitch streaming site and overlay setup. Includes the Chat On Screen overlay with rendered emotes and Twitch profile pictures, plus a Prize Wheel entry system built on Streamer.bot with C# sub-actions.
 
 #### 🌑 [Portfolio](https://github.com/GooferG/portfolio) → [luizmeneghim.com](https://luizmeneghim.com)
