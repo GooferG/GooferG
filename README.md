@@ -57,7 +57,13 @@ Personal portfolio on Next.js 15 (App Router) and Tailwind v4. Dark glassmorphis
 
 ### Stats
 
+### Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GooferG&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GooferG&layout=compact&hide_border=true&theme=tokyonight" height="160" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
